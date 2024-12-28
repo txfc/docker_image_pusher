@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/amd64
-ncbi/egapx:0.3.0-alpha
+yanyew/syngap:1.2.5
